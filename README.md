@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning `Java`, `Python`
 - 🥇 Bachelor of computer engineering
-- 🚅 Busan in Korea
+- 🚢 Busan in Korea
 
 ### Experience
 
