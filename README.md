@@ -8,12 +8,12 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bull0429">
 
 - 🌱 I’m currently learning `Java`, `Python`
-- 🥇 Bachelor of computer engineering
-- 🚢 Busan in Korea
+- 🥇 Bachelor of Computer Engineering
+- 🚢 Pusan in Korea
 
 ### Experience
 
-- 🎓 Pusan National University , Computer Engineneering (2015.03~2022.02)
+- 🎓 Pusan National University, Computer Engineering (2015.03~2022.02)
 - 🔥 Samsung SW Academy For Youth (2022.01~)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=taurus429" height="165">
