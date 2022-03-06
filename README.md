@@ -1,4 +1,4 @@
-# Harry 😉
+# Park Chanho 😉
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/taurus429) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:taurus42977@gmail.com) 
 
@@ -8,7 +8,7 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bull0429">
 
 - 🌱 I’m currently learning `Java`, `Python`
-- 🥇 I majored in Economics
+- 🥇 Bachelor of computer engineering
 - 🚅 Busan in Korea
 
 ### Experience
